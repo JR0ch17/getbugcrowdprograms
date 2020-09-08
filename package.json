@@ -1,7 +1,7 @@
 {
   "name": "getbugcrowdprograms",
-  "version": "1.0.0",
-  "description": "Grab all Bugcrowd program names",
+  "version": "1.0.1",
+  "description": "Grab all Bugcrowd's program names",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
