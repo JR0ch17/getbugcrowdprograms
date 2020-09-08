@@ -9,7 +9,7 @@ async function getBugcrowdPrograms() {
     let programList = [];
     for (let offset of offsetArray) {
             let response = await axios.request({
-            url: `https://bugcrowd.com/programs.json?sort[]=name-asc&hidden[]=false&joinable[]=false&points_only[]=false&charity[]=false&waitlistable[]=false&offset[]=${offset}`,
+            url: `https://bugcrowd.com/programs.json?sort[]=name-asc&hidden[]=false&offset[]=${offset}`,
             method: 'get',
             headers: {
                 Cookie: `_crowdcontrol_session=${process.env.BUGCROWD_COOKIE}`
