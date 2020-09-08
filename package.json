@@ -2,14 +2,14 @@
   "name": "getbugcrowdprograms",
   "version": "1.0.0",
   "description": "Grab all Bugcrowd program names",
-  "main": "./bin/index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jasmin Landry @JR0ch17",
   "license": "ISC",
   "bin": {
-    "getbugcrowdprograms": "./bin/index.js"
+    "getbugcrowdprograms": "./index.js"
   },
   "dependencies": {
     "axios": "^0.20.0"
