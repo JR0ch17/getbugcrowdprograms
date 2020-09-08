@@ -20,7 +20,10 @@ async function getBugcrowdPrograms() {
             programList.push(program.name)
         })
     }
-    console.dir(programList.sort(), { 'maxArrayLength': null });
+    programList = [...new Set(programList.sort())];
+    programList.forEach(program => {
+        console.log(program);
+    });
 };
 
 const start = async function () {
