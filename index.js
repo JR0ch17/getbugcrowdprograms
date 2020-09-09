@@ -3,7 +3,7 @@ const axios = require('axios');
 
 async function getBugcrowdPrograms() {
     let offsetArray = [];
-    for (let i = 0; i <= 175; i += 25) {
+    for (let i = 0; i <= 350; i += 25) {
         offsetArray.push(i)
     }
     let programList = [];
