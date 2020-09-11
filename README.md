@@ -1,5 +1,5 @@
 # getbugcrowdprograms
-A simple Node.js tool that extracts all of your Bugcrowd programs' name. Can easily be modified to grab other data as well.
+A simple Node.js tool that extracts all of your Bugcrowd programs' name. Can easily be modified to fetch other data as well.
 
 ## Install
 ```bash
