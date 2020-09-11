@@ -2,7 +2,7 @@
 A simple Node.js tool that extracts all of your Bugcrowd programs' name. Can easily be modified to grab other data as well.
 
 ## Install
-```
+```bash
 export BUGCROWD_COOKIE=<BUGCROWD_SESSION_COOKIE> #_crowdcontrol_session
 git clone https://github.com/JR0ch17/getbugcrowdprograms.git
 cd getbugcrowdprograms/
