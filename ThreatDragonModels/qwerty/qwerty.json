@@ -17,7 +17,7 @@
     "diagrams": [
       {
         "title": "Main Request Data Flow",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "thumbnail": "file:///etc/passwd",
         "id": 0,
         "diagramJson": {
           "cells": [
