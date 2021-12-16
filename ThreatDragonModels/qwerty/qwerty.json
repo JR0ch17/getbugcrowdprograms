@@ -17,7 +17,7 @@
     "diagrams": [
       {
         "title": "Main Request Data Flow",
-        "thumbnail": "file:///etc/passwd",
+        "thumbnail": "https://www.google.com/favicon.ico",
         "id": 0,
         "diagramJson": {
           "cells": [
